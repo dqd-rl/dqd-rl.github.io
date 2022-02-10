@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://dqd-rl.github.io/assets/katex-v0-15-2/README/</loc>
-        <lastmod>2022-02-10T21:51:14+0000</lastmod>
+        <loc>https://dqd-rl.github.io/assets/academicons-1.9.1/README/</loc>
+        <lastmod>2022-02-10T21:59:22+0000</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://dqd-rl.github.io/assets/katex-0.15.2/README/</loc>
+        <lastmod>2022-02-10T21:59:22+0000</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
         <loc>https://dqd-rl.github.io/</loc>
-        <lastmod>2022-02-10T21:51:14+0000</lastmod>
+        <lastmod>2022-02-10T21:59:23+0000</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
         <loc>https://dqd-rl.github.io/qr/</loc>
-        <lastmod>2022-02-10T21:51:14+0000</lastmod>
+        <lastmod>2022-02-10T21:59:23+0000</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
